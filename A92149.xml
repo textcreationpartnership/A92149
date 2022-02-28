@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie upon the death of the thrice noble generall, Richard Dean, who departed this life the 2d. of June, 1653.</title>
+            <author>J. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92149</idno>
+            <idno type="STC">Wing R24</idno>
+            <idno type="STC">Thomason 669.f.17[21]</idno>
+            <idno type="STC">ESTC R211546</idno>
+            <idno type="EEBO-CITATION">99870262</idno>
+            <idno type="PROQUEST">99870262</idno>
+            <idno type="VID">163271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie upon the death of the thrice noble generall, Richard Dean, who departed this life the 2d. of June, 1653.</title>
+                  <author>J. R.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Rycroft, and are to be sold by Tho: Jenner, at the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: By J: R: Merchant.</note>
+                  <note>Verse - "Mourne drooping eye with pearly trickling teares,".</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Deane, Richard, 1610-1653 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163271:1" rendition="simple:additions"/>
+            <head>
+               <hi>An Elegie upon the Death of the thrice Noble Generall,</hi> RICHARD DEAN, <hi>Who depar<g ref="char:EOLhyphen"/>ted this life the</hi> 2<hi rend="sup">d.</hi> 
+               <hi>of Iune,</hi> 1653.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>OURNE drooping eyes with pear<g ref="char:EOLhyphen"/>ly trickling teares,</l>
+               <l>Flow ſtreams of ſadneſſe to the He<g ref="char:EOLhyphen"/>miſpheres:</l>
+               <l>Flow like the tumbling waves of th' River <hi>Nile,</hi>
+               </l>
+               <l>Make the World hear thy Plaint, let not a ſmile</l>
+               <l>Appear, let not an eye be ſeen to ſleep</l>
+               <l>Nor ſlumber, onely let them ſerve to weep,</l>
+               <l>For Noble <hi>Deane,</hi> who lives above the Pole,</l>
+               <l>Where Angels ſing ſweet <hi>Requiems</hi> to his ſoule.</l>
+               <l>And now if angry ſtormes and waves be rough,</l>
+               <l>Thy Haven and thy Harbour's ſafe enough.</l>
+               <l>Sleep, ſleep awhile untill the flowing Tyde</l>
+               <l>Of bleſt <hi>Eliziums</hi> ſtreames that ſweetly glide,</l>
+               <l>Shall palliate thy wounded ſide; O fate to ſee!</l>
+               <l>That laſt ſad ſtroke of thy hard Deſtiny.</l>
+               <l>When winds ſhall ſerve thee, then hoyſt up top ſaile,</l>
+               <l>And bravely paſſe before a proſperous gale,</l>
+               <l>That all the Coaſters may to thee reſort,</l>
+               <l>And bid thee welcome to thy deſired Port;</l>
+               <l>Thee to attend, from Sea to Shore, to be</l>
+               <l>Interr'd, deſerving thy magnanimity.</l>
+               <l>Oh, could we to thy Name erect a Stone,</l>
+               <l>Should equall the Philoſophers; each groan,</l>
+               <l>Should breath thy praiſe, brave <hi>Deane,</hi> and every Verſe</l>
+               <l>Draw dolefull ſighs over thy fatall Hearſe.</l>
+               <l>No fitter ſubject, where ſtrong lines ſhould meet,</l>
+               <l>Then ſuch a noble centre; could the feet</l>
+               <l>Of able Verſe but trace the Victories,</l>
+               <l>They need not feare to flye unto the Skies,</l>
+               <l>To aske Great <hi>Deane</hi> who taught him ſo to dye,</l>
+               <l>Death yeelding him the day and Victory.</l>
+               <l>Therefore farewell, let Truth this Story ſay,</l>
+               <l>He liv'd and dy'd the glory of that day.</l>
+               <l>And now thou ſleepſt, bleſt Soule, free'd from all cares,</l>
+               <l>Whilſt we do read thy Elegy with teares;</l>
+               <l>And ſtand amaz'd, to ſee thou didſt not ceaſe,</l>
+               <l>By Land nor Sea to purchaſe to us Peace:</l>
+               <l>Wherein thy boldneſſe ſtill did interpoſe</l>
+               <l>Betwixt us and the raging of our Foes,</l>
+               <l>In <hi>England, Scotland,</hi> and likewiſe at Sea,</l>
+               <l>Where thou didſt <hi>Hogen Mogens, Haunſmen</hi> pay</l>
+               <l>Home to the full for their ingratefulneſſe,</l>
+               <l>In fighting us, who help'd them in diſtreſſe:</l>
+               <l>Tis not unknowne, they gave this Epithet,</l>
+               <l>Of <hi>Poore diſtreſſed States,</hi> but now forget</l>
+               <l>Thoſe favours erſt receiv'd, which muſt them ſtyle,</l>
+               <l>Unworthy actors gainſt our Engliſh Iſle.</l>
+               <l>But whither run I? O ſee, obſerve the Spheres,</l>
+               <l>How they bewaile our Valiant <hi>Dean</hi> in teares.</l>
+               <l>But he is dead, from which it is obſerv'd,</l>
+               <l>Honour and Valour from Death is not preſerv'd:</l>
+               <l>Nor is it ſeen that greateſt Princes lives,</l>
+               <l>Can ſaved be by their Prerogatives.</l>
+               <l>Then need I not the World thus to acquaint,</l>
+               <l>He dy'd a Souldier, Martyr, and a Saint:</l>
+               <l>But <hi>Mars</hi> of late hath ſtruck this Cedar tall,</l>
+               <l>And <hi>Neptune</hi> mourns for our great <hi>Hero's</hi> fall;</l>
+               <l>At which his Billows drive from ſhore to ſhore,</l>
+               <l>To tell proud <hi>Mars</hi> this loſſe will coſt him more</l>
+               <l>Of his <hi>Amboyna</hi> Sons, which now do quake,</l>
+               <l>When they do heare of the moſt Valiant <hi>Blake.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Weel now returne to minde <hi>Deans</hi> fatall fall,</l>
+               <l>And ſound ſad ſummons to his Funerall;</l>
+               <l>Caus'd by a bloody hand, that could not get</l>
+               <l>The Gem, therefore would ſpoyle the Caskanet:</l>
+               <l>So faire without, ſo free from ſpot within,</l>
+               <l>That Earth ſeems here to be exempt from ſin:</l>
+               <l>Where we thy vertues ſee, and they become</l>
+               <l>So many Statues ſleeping on thy Tombe.</l>
+               <l>But is it ſo, that Vertue drawes faint breath,</l>
+               <l>And ſubject to the dire effects of death;</l>
+               <l>Then reſt thee where thou art, Ile ſeek no glory,</l>
+               <l>By the relation of ſo ſad a ſtory.</l>
+               <l>But tell the World that thou haſt payd the debt</l>
+               <l>That's due to ſin, and nere a Libell yet,</l>
+               <l>Beſpattering thy chaſte Urne, whoſe ſacrifice</l>
+               <l>Hath ſtopt the mouths of thy great'ſt Enemies:</l>
+               <l>They ſtand amaz'd to read and hear of thee,</l>
+               <l>Whoſe Name is ſhrined in this Elegie.</l>
+               <l>Who mightſt have liv'd, had not the life that gave</l>
+               <l>Life to thy life, ſent thee now to thy Grave.</l>
+               <l>Therefore tis ſad to write thy Pedigree,</l>
+               <l>Death diſcompoſing all, diſplacing thee:</l>
+               <l>Whoſe Greatneſſe did conſiſt in being Good,</l>
+               <l>His Goodneſſe adding Titles to his Blood.</l>
+               <l>Onely unhappy in thy lifes laſt doome,</l>
+               <l>Who liv'd too early, for to dye ſo ſoone:</l>
+               <l>Alas! whereto ſhall men oppreſſed truſt,</l>
+               <l>When Piety cannot protect the Juſt?</l>
+               <l>Yet to add ſome Memento's to thy life,</l>
+               <l>Thou haſt behinde thee left a loving Wife:</l>
+               <l>Who hath (ſince that ſad time thou didſt depart)</l>
+               <l>O reflow'd her cheeks with tears from a ſad heart;</l>
+               <l>And like a chaſte and vertuous Widow, Shee</l>
+               <l>Hath ſet apart her ſelfe to mourn for thee;</l>
+               <l>For thee, moſt Noble <hi>Deane,</hi> ſhe doth lament,</l>
+               <l>And ſad ſighes, for thee, to Heaven hath ſent;</l>
+               <l>Her ſorrows are augmented on this ſcore,</l>
+               <l>Weeping becauſe that ſhee can weep no more,</l>
+               <l>For him, whoſe worth doth unto mourning call</l>
+               <l>
+                  <hi>CROMWELL,</hi> the Great and Noble Generall:</l>
+               <l>The glory of our Age, whoſe Valiant hand</l>
+               <l>Hath wrought deliverance for this ſinfull Land:</l>
+               <l>I ſay, Great, Valiant, Noble, excelling farr</l>
+               <l>
+                  <hi>Caeſar, Pompey,</hi> or great <hi>Alexander,</hi>
+               </l>
+               <l>Whoſe ſplendid Vertues radiantly diſplay</l>
+               <l>Themſelves to all, more clearer then the day.</l>
+               <l>Thy humble Self-denying doth expreſſe</l>
+               <l>Thee farr above the height of any Verſe,</l>
+               <l>That can be writ of thee, in Love or Feare:</l>
+               <l>Go on therefore bleſt Soule, and perſevere</l>
+               <l>T' expell from place of profit, and of truſt,</l>
+               <l>Such Vermine, who with Coyne their Bags do thruſt.</l>
+            </lg>
+            <lg>
+               <l>The next in order to <hi>Deanes</hi> Obſequies,</l>
+               <l>We do invite to breath ſad Elegies:</l>
+               <l>Whoſe Lines may farr ſurpaſſe the height of mine,</l>
+               <l>Whom I muſt fitly ſtyle the Worthies nine.</l>
+               <l>And firſt the Valiant <hi>Fleetwood</hi> I do take,</l>
+               <l>With Noble <hi>Lambert,</hi> and Victorious <hi>Blake,</hi>
+               </l>
+               <l>And prudent <hi>Harriſon</hi> Ile not omit,</l>
+               <l>Nor the moſt Pious <hi>Desborough;</hi> or yet</l>
+               <l>The ſixth renowned Worthy, <hi>Whaley,</hi> and</l>
+               <l>The brave Heroe <hi>Rich</hi> may moſt juſtly ſtand;</l>
+               <l>With Gallant <hi>Monk,</hi> who may be rank'd with you,</l>
+               <l>Heroick <hi>Lilborne</hi> may well be added too:</l>
+               <l>With many more, whoſe worth Ile now not name,</l>
+               <l>But wiſh them pattern take by <hi>Deans</hi> Great Fame:</l>
+               <l>Who had he liv'd the curled Waves t'have tear'd,</l>
+               <l>
+                  <hi>Rome</hi> had ere long this Noble Heroe heard</l>
+               <l>At her proud Gates, them to account to call,</l>
+               <l>For the Saints blood they ſpilt, and Martyrs all;</l>
+               <l>That they did drink full deep in that ſad Cup,</l>
+               <l>Of which brave <hi>Blake</hi> will give them for to ſup.</l>
+               <l>When <hi>Dean</hi> the truly Noble, and the brave</l>
+               <l>Heroick Soule ſhall be layd in the Grave,</l>
+               <l>Where he may reſt, and be interr'd hard by</l>
+               <l>The worthy <hi>Ireton,</hi> and old <hi>Eſſex;</hi> lye</l>
+               <l>Neer unto <hi>Popham:</hi> and make roome,</l>
+               <l>For Pious <hi>Sparrow</hi> in your five-fold Tombe:</l>
+               <l>And thence let your owne Ecchoes multiply</l>
+               <l>Bleſt Hymas, and Muſes write continually;</l>
+               <l>Whilſt you do reſt in your black Obſequies,</l>
+               <l>With greater Glory ſet, then others riſe.</l>
+            </lg>
+            <lg>
+               <l>R <hi>Remorſeleſſe Death! What haſt thou done? Excell'd</hi>
+               </l>
+               <l>I <hi>In conquering him, who valiantly had erſt</hi>
+               </l>
+               <l>C <hi>Curbd the proud curled Waves, and often quell'd</hi>
+               </l>
+               <l>H <hi>High</hi> Hogens <hi>ins'lence, their Ships and men diſperſt.</hi>
+               </l>
+               <l>A <hi>All the brave acts thou didst on Sea or Shore,</hi>
+               </l>
+               <l>R <hi>Report thee famous, and declare thee more</hi>
+               </l>
+               <l>D <hi>Direly lamented, with teares running ore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>D Dean's <hi>dead, why do I ſay hee's dead? He lives</hi>
+               </l>
+               <l>E <hi>Eternally; and hath receiv'd that Crowne</hi>
+               </l>
+               <l>A <hi>Attended his great Conqueſts, wher' he receives</hi>
+               </l>
+               <l>N <hi>New joyes in Heav'n, repleated with renowne.</hi>
+               </l>
+            </lg>
+            <byline>
+               <hi>By</hi> J: R: <hi>Merchant.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho: Rycroft,</hi> and are to be ſold by <hi>Tho: Ienner,</hi> at the Royall Exchange, 1653<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
